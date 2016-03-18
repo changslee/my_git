@@ -1,0 +1,61 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\cygwin\opt\tinyos-2.x\apps\BaseStation\build\mango2\mg.uvproj
+Project File Date:  04/25/2014
+
+<h2>Output:</h2>
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling app_mangled.c...
+app_mangled.c(4694): warning C280: 'id': unreferenced local variable
+app_mangled.c(4735): warning C280: 'idxxx': unreferenced local variable
+app_mangled.c(4735): warning C280: 'msg': unreferenced local variable
+app_mangled.c(4735): warning C280: 'error': unreferenced local variable
+app_mangled.c(4846): warning C280: 'id': unreferenced local variable
+app_mangled.c(4847): warning C280: 'payload': unreferenced local variable
+app_mangled.c(4848): warning C280: 'len': unreferenced local variable
+app_mangled.c(4901): warning C280: 'payload': unreferenced local variable
+app_mangled.c(4908): warning C280: 'idxxx': unreferenced local variable
+app_mangled.c(4909): warning C280: 'payload': unreferenced local variable
+app_mangled.c(4910): warning C280: 'len': unreferenced local variable
+app_mangled.c(4946): warning C280: 'msg': unreferenced local variable
+app_mangled.c(4953): warning C280: 'id': unreferenced local variable
+app_mangled.c(4953): warning C280: 'msg': unreferenced local variable
+app_mangled.c(4954): warning C280: '_dataLinkLen': unreferenced local variable
+app_mangled.c(4997): warning C280: 'id': unreferenced local variable
+app_mangled.c(5067): warning C280: 'error': unreferenced local variable
+app_mangled.c(5970): warning C280: 'p_msg': unreferenced local variable
+app_mangled.c(6106): warning C280: 'm': unreferenced local variable
+app_mangled.c(6202): warning C280: 'num': unreferenced local variable
+app_mangled.c(6426): warning C280: 'id': unreferenced local variable
+app_mangled.c(6450): warning C280: 'id': unreferenced local variable
+app_mangled.c(6702): warning C280: 'id': unreferenced local variable
+app_mangled.c(6766): warning C280: 'error': unreferenced local variable
+app_mangled.c(6786): warning C280: 'error': unreferenced local variable
+app_mangled.c(7985): warning C280: 'cca': unreferenced local variable
+app_mangled.c(8215): warning C280: 'msg': unreferenced local variable
+app_mangled.c(8484): warning C280: 'msg': unreferenced local variable
+app_mangled.c(8491): warning C280: 'id': unreferenced local variable
+app_mangled.c(8491): warning C280: 'msg': unreferenced local variable
+app_mangled.c(8492): warning C280: 'upperLen': unreferenced local variable
+app_mangled.c(8696): warning C173: missing return-expression
+app_mangled.c(8693): warning C280: 'msg': unreferenced local variable
+app_mangled.c(9853): warning C280: '_data': unreferenced local variable
+app_mangled.c(9949): warning C280: 'buf': unreferenced local variable
+app_mangled.c(9949): warning C280: 'len': unreferenced local variable
+app_mangled.c(9949): warning C280: 'error': unreferenced local variable
+app_mangled.c(10437): warning C280: 'buf': unreferenced local variable
+app_mangled.c(10437): warning C280: 'len': unreferenced local variable
+app_mangled.c(10438): warning C280: 'error': unreferenced local variable
+app_mangled.c(10591): warning C280: 'id': unreferenced local variable
+app_mangled.c(11000): warning C280: 'm': unreferenced local variable
+app_mangled.c(11074): warning C280: 'payload': unreferenced local variable
+app_mangled.c(11074): warning C280: 'len': unreferenced local variable
+app_mangled.c(8696): warning C290: missing return value
+linking...
+Program Size: data=11.0 xdata=1642 code=35705
+creating hex file from "mg"...
+"mg" - 0 Error(s), 45 Warning(s).
