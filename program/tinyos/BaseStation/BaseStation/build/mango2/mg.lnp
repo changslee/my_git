@@ -1,4 +1,0 @@
-"STARTUP.obj",
-"app_mangled.obj" 
-TO "mg" 
-RAMSIZE(256) 
